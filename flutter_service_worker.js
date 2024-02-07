@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"version.json": "54e1f767092bd18eae6c245aa3ad2dac",
+const RESOURCES = {"version.json": "84a7bc6d18a5b7f44a2cac75d252da1d",
 "splash/img/light-2x.png": "04e26ab0f856f5fada3cf634145bbd2a",
 "splash/img/dark-4x.png": "c6240194acc41fa2856ddfc314ae98b6",
 "splash/img/light-3x.png": "1047b771b469461f6c4394beab4a1e7c",
@@ -12,9 +12,9 @@ const RESOURCES = {"version.json": "54e1f767092bd18eae6c245aa3ad2dac",
 "splash/img/dark-2x.png": "04e26ab0f856f5fada3cf634145bbd2a",
 "splash/img/dark-1x.png": "370da2a39da2aa8545d91b7638ebaae3",
 "splash/img/light-1x.png": "370da2a39da2aa8545d91b7638ebaae3",
-"index.html": "a758f001689cf32082a96b357a1c7fe7",
-"/": "a758f001689cf32082a96b357a1c7fe7",
-"main.dart.js": "105e29037724a17190c838c801a28c13",
+"index.html": "630f7fdcfc29e669afe43208361e038f",
+"/": "630f7fdcfc29e669afe43208361e038f",
+"main.dart.js": "8ff5eef019cb1a2f6090a94c8de2e6bf",
 "sqlite3.wasm": "59b0b16e9818fad51d4ec7c1400fd1dd",
 "flutter.js": "7d69e653079438abfbb24b82a655b0a4",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
@@ -218,11 +218,11 @@ const RESOURCES = {"version.json": "54e1f767092bd18eae6c245aa3ad2dac",
 "assets/assets/fonts/GoVanlifeEntertainmentIcons.ttf": "7e5bd3fb1383607c4873423bbc3a5a5e",
 "assets/assets/fonts/GoVanlifeCommonIcons.ttf": "c17b2c6160b50fe5062aa4a3dd92d3b8",
 "canvaskit/skwasm.js": "87063acf45c5e1ab9565dcf06b0c18b8",
-"canvaskit/skwasm.wasm": "4124c42a73efa7eb886d3400a1ed7a06",
+"canvaskit/skwasm.wasm": "2fc47c0a0c3c7af8542b601634fe9674",
 "canvaskit/chromium/canvaskit.js": "0ae8bbcc58155679458a0f7a00f66873",
-"canvaskit/chromium/canvaskit.wasm": "f87e541501c96012c252942b6b75d1ea",
+"canvaskit/chromium/canvaskit.wasm": "143af6ff368f9cd21c863bfa4274c406",
 "canvaskit/canvaskit.js": "eb8797020acdbdf96a12fb0405582c1b",
-"canvaskit/canvaskit.wasm": "64edb91684bdb3b879812ba2e48dd487",
+"canvaskit/canvaskit.wasm": "73584c1a3367e3eaf757647a8f5c5989",
 "canvaskit/skwasm.worker.js": "bfb704a6c714a75da9ef320991e88b03"};
 // The application shell files that are downloaded before a service worker can
 // start.
